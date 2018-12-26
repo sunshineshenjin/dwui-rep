@@ -1,7 +1,7 @@
 [
   {
     "name": "general-vue-project-template",
-    "url": "git@github.com:sunshineshenjin/general-vue-project-template.git",
+    "url": "github:sunshineshenjin/general-vue-project-template",
     "description": "基于vue + iview + axios + vue-router + vuex + 自定组件库dwui 的前端模板工程"
   }
 ]
